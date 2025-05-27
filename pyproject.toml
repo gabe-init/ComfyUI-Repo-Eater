@@ -1,7 +1,7 @@
 [project]
 name = "repo_eater"
 description = "ComfyUI node for consuming and processing repository content"
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["gitingest>=0.1.0", "tiktoken>=0.5.0"]
 
